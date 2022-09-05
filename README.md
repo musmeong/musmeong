@@ -10,48 +10,9 @@
   <br>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    100 commits    █████████████████████████   100.0% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Tuesday      13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Thursday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Sunday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in Jupyter Notebook** 
 
@@ -65,6 +26,6 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 05:32:33 UTC
+ Last Updated on 05/09/2022 06:00:22 UTC
 <!--END_SECTION:waka-->
 </details>
